@@ -84,7 +84,7 @@ Agar test bisa dilakukan secara optimal, diharuskan untuk melewati test `fizz_bu
 
 Setelah mengimplementasikan kode, silahkan test kode yang telah kita buat. Pastikan kedua test passed.
 
-![Passed Test](passed.png)
+![Passed Test](passed.PNG)
 
 ## Informasi
 
