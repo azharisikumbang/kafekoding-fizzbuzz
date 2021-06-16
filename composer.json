@@ -1,0 +1,21 @@
+{
+    "name": "kum/fizzbuzz",
+    "description": "Tugas Kafekoding 3",
+    "authors": [
+        {
+            "name": "azhari",
+            "email": "azharisaputrasikumbang@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "./vendor/bin/phpunit --color --testdox tests"
+    }
+}
