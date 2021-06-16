@@ -33,7 +33,7 @@ composer test
 
 ### Membuat kode
 
-Latihan dilakukan dengan membuat kode agar test bisa dilewati alias `passed`. Terdapat dua jenis test, yaitu :
+Latihan dilakukan dengan langsung mengimplementasikan testing. Pada folder latihan kita akan bekerja dengan file `tests\FizzBuzzTest.php`, pada file tersebut kita bekerja dengan membuat kode agar test bisa dilewati alias `passed`. Terdapat dua jenis test, yaitu :
 
 1. Test untuk single fizz buzz
 Test ini bertujuan untuk membuat pengujian fizzbuzz terhadap sebuah angka.
